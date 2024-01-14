@@ -6,9 +6,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import ru.alishev.springcourse.FirstSecurityApp.security.PersonDetails;
 
-/**
- * @author Neil Alishev
- */
+
 @Controller
 public class HelloController {
     @GetMapping("/hello")

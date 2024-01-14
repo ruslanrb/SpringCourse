@@ -1,8 +1,6 @@
 package ru.alishev.springcourse.models;
 
-/**
- * @author Neil Alishev
- */
+
 public class Person {
     private int id;
     private String name;

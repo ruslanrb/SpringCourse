@@ -9,9 +9,7 @@ import javax.validation.constraints.NotEmpty;
 import javax.validation.constraints.Size;
 import java.util.Date;
 
-/**
- * @author Neil Alishev
- */
+
 @Entity
 @Table(name = "Person")
 public class Person {

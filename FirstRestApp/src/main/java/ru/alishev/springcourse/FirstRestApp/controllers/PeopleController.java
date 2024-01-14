@@ -7,9 +7,7 @@ import ru.alishev.springcourse.FirstRestApp.services.PeopleService;
 
 import java.util.List;
 
-/**
- * @author Neil Alishev
- */
+
 @RestController // @Controller + @ResponseBody над каждым методом
 @RequestMapping("/people")
 public class PeopleController {

@@ -3,9 +3,7 @@ package ru.alishev.springcourse;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.beans.factory.annotation.Value;
 
-/**
- * @author Neil Alishev
- */
+
 public class MusicPlayer {
 
     @Value("${musicPlayer.name}")

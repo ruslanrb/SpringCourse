@@ -7,9 +7,7 @@ import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @author Neil Alishev
- */
+
 @Component
 public class PersonDAO {
     private static int PEOPLE_COUNT;

@@ -6,9 +6,7 @@ import ru.alishev.springcourse.FirstSecurityApp.models.Person;
 
 import java.util.Collection;
 
-/**
- * @author Neil Alishev
- */
+
 public class PersonDetails implements UserDetails {
     private final Person person;
 

@@ -2,9 +2,7 @@ package ru.alishev.springcourse.FirstRestApp.models;
 
 import javax.persistence.*;
 
-/**
- * @author Neil Alishev
- */
+
 @Entity
 @Table(name = "Person")
 public class Person {

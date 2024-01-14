@@ -12,9 +12,7 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @author Neil Alishev
- */
+
 @Component
 public class PersonDAO {
 

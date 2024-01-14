@@ -7,9 +7,6 @@ import org.springframework.web.bind.annotation.*;
 import ru.alishev.springcourse.dao.PersonDAO;
 import ru.alishev.springcourse.models.Person;
 
-/**
- * @author Neil Alishev
- */
 @Controller
 @RequestMapping("/people")
 public class PeopleController {

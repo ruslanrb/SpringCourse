@@ -12,9 +12,7 @@ import ru.alishev.springcourse.FirstSecurityApp.services.PersonDetailsService;
 
 import java.util.Collections;
 
-/**
- * @author Neil Alishev
- */
+
 @Component
 public class AuthProviderImpl implements AuthenticationProvider {
 

@@ -9,9 +9,7 @@ import org.springframework.security.crypto.password.NoOpPasswordEncoder;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import ru.alishev.springcourse.FirstSecurityApp.services.PersonDetailsService;
 
-/**
- * @author Neil Alishev
- */
+
 @EnableWebSecurity
 public class SecurityConfig extends WebSecurityConfigurerAdapter {
 

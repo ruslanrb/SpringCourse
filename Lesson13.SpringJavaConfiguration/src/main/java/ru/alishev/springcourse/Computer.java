@@ -1,8 +1,6 @@
 package ru.alishev.springcourse;
 
-/**
- * @author Neil Alishev
- */
+
 public class Computer {
     private int id;
     private MusicPlayer musicPlayer;

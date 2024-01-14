@@ -3,9 +3,7 @@ package ru.alishev.springcourse;
 import javax.annotation.PostConstruct;
 import javax.annotation.PreDestroy;
 
-/**
- * @author Neil Alishev
- */
+
 public class ClassicalMusic implements Music {
 
     @PostConstruct

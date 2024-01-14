@@ -6,9 +6,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import ru.alishev.springcourse.dao.PersonDAO;
 
-/**
- * @author Neil Alishev
- */
+
 @Controller
 @RequestMapping("/test-batch-update")
 public class BatchController {

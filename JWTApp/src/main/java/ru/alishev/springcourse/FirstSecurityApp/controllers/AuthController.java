@@ -17,9 +17,7 @@ import ru.alishev.springcourse.FirstSecurityApp.util.PersonValidator;
 import javax.validation.Valid;
 import java.util.Map;
 
-/**
- * @author Neil Alishev
- */
+
 @RestController
 @RequestMapping("/auth")
 public class AuthController {

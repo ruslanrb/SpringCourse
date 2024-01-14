@@ -14,9 +14,7 @@ import ru.alishev.springcourse.genres.RockMusic;
 import java.util.Arrays;
 import java.util.List;
 
-/**
- * @author Neil Alishev
- */
+
 @Configuration
 @PropertySource("classpath:musicPlayer.properties")
 public class SpringConfig {

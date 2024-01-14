@@ -5,9 +5,7 @@ import org.springframework.beans.factory.annotation.Value;
 import java.util.List;
 import java.util.Random;
 
-/**
- * @author Neil Alishev
- */
+
 public class MusicPlayer {
 
     @Value("${musicPlayer.name}")

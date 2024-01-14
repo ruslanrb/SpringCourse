@@ -8,9 +8,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import ru.alishev.springcourse.dao.PersonDAO;
 
-/**
- * @author Neil Alishev
- */
+
 @Controller
 @RequestMapping("/people")
 public class PeopleController {

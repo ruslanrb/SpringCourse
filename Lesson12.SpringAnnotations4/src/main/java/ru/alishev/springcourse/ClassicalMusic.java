@@ -6,9 +6,7 @@ import org.springframework.stereotype.Component;
 import javax.annotation.PostConstruct;
 import javax.annotation.PreDestroy;
 
-/**
- * @author Neil Alishev
- */
+
 @Component
 @Scope("prototype")
 public class ClassicalMusic implements Music {

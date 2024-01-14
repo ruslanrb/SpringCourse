@@ -10,9 +10,7 @@ import ru.alishev.springcourse.services.PeopleService;
 
 import javax.validation.Valid;
 
-/**
- * @author Neil Alishev
- */
+
 @Controller
 @RequestMapping("/people")
 public class PeopleController {

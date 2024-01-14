@@ -9,9 +9,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import ru.alishev.springcourse.FirstSecurityApp.security.PersonDetails;
 import ru.alishev.springcourse.FirstSecurityApp.services.AdminService;
 
-/**
- * @author Neil Alishev
- */
+
 @Controller
 public class HelloController {
     private final AdminService adminService;

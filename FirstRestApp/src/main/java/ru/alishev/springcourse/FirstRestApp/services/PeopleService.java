@@ -9,9 +9,7 @@ import ru.alishev.springcourse.FirstRestApp.repositories.PeopleRepository;
 import java.util.List;
 import java.util.Optional;
 
-/**
- * @author Neil Alishev
- */
+
 @Service
 @Transactional(readOnly = true)
 public class PeopleService {

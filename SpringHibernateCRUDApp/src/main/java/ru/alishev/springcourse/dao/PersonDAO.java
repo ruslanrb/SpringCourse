@@ -9,9 +9,7 @@ import ru.alishev.springcourse.models.Person;
 
 import java.util.List;
 
-/**
- * @author Neil Alishev
- */
+
 @Component
 public class PersonDAO {
 
